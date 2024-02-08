@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "#",
   "description": "Portfolio site for Santa Clous",
-  "repository": "https://github.com/santaclous112/santa-portfolio.git",
+  "repository": "https://github.com/peastar1210/JC-portfolio.git",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.5.10",

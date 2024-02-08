@@ -19,9 +19,9 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Monil Patel, currently I working as a senior web developer. My projects include
-      front-end, blockchain, AI/ML. Being comfortable with code allows me to rapidly web
-      development and validate experiences.
+      I’m Joseph Collins, currently I working as a senior web developer. My projects
+      include front-end, blockchain, AI/ML. Being comfortable with code allows me to
+      rapidly web development and validate experiences.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       In my spare time I like to play basketball, play video games, and photo. I’m always
@@ -60,7 +60,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 Send me a message
               </Button>
             </div>
-            <div className={styles.column}>
+            {/* <div className={styles.column}>
               <div className={styles.tag} aria-hidden>
                 <Divider
                   notchWidth="64px"
@@ -89,10 +89,10 @@ export const Profile = ({ id, visible, sectionRef }) => {
                   className={styles.svg}
                   data-visible={visible}
                 >
-                  {/* <use href={`${profileKatakana}#katakana-profile`} /> */}
+                  <use href={`${profileKatakana}#katakana-profile`} />
                 </svg>
               </div>
-            </div>
+            </div> */}
           </div>
         )}
       </Transition>
