@@ -314,12 +314,15 @@ export const SmartSparrow = () => {
                 <ProjectSectionContent width="xl">
                   <ProjectTextRow justify="end" width="s">
                     <ProjectSectionHeading level={4} as="h3">
-                      Bringing 3D into learning
+                      Blockchain Infrastructure
                     </ProjectSectionHeading>
                     <ProjectSectionText>
-                      One really cool example is the 3D screen plugin. Learning designers
-                      can load any model into it and then configure camera positions to
-                      animate to for each section.
+                      Possessing a masterful grasp of decentralized digital architectures,
+                      "Blockchain Infrastructure Virtuoso" demonstrates a command over the
+                      creation and maintenance of secure, scalable blockchain systems.
+                      This designation captures an adeptness in smart contract
+                      development, crypto-asset security, and consensus algorithm
+                      optimization—key skills that make blockchain networks thrive.
                     </ProjectSectionText>
                   </ProjectTextRow>
                 </ProjectSectionContent>
@@ -342,12 +345,15 @@ export const SmartSparrow = () => {
                 <ProjectSectionContent width="xl">
                   <ProjectTextRow justify="start" width="s">
                     <ProjectSectionHeading level={4} as="h3">
-                      Interactivity
+                      Ledger Launch Architect
                     </ProjectSectionHeading>
                     <ProjectSectionText>
-                      Learners can then be directed to specific parts of the model and
-                      shown labels. They’re also able to click and drag to orbit around
-                      and freely explore at any time.
+                      Spearheading groundbreaking cryptocurrency initiatives, "Ledger
+                      Launch Architect" signifies a skill set rooted in cutting-edge
+                      blockchain deployment. This term represents a professional adept at
+                      transforming concept into reality, offering an in-depth
+                      understanding of ICO strategies, tokenomics, and blockchain
+                      integration to deliver a successful cryptolaunch.
                     </ProjectSectionText>
                   </ProjectTextRow>
                 </ProjectSectionContent>
@@ -376,12 +382,15 @@ export const SmartSparrow = () => {
                 <ProjectSectionContent width="xl">
                   <ProjectTextRow justify="end" width="s">
                     <ProjectSectionHeading level={4} as="h3">
-                      Animation
+                      Go Language
                     </ProjectSectionHeading>
                     <ProjectSectionText>
-                      Learning designers can pick an animation included in the model to
-                      play or loop for any section without having to use any complex
-                      animation tools.
+                      With agility in Go programming, the "Go System Maestro" epitomizes
+                      expertise in building high-performance, reliable, and scalable
+                      systems. This label reflects a proficiency in leveraging Go's
+                      simplicity for concurrent programming tasks, crafting microservice
+                      architectures, and optimizing system performance—essential for
+                      creating modern, efficient software.
                     </ProjectSectionText>
                   </ProjectTextRow>
                 </ProjectSectionContent>
