@@ -25,7 +25,7 @@ export const socialLinks = [
   },
   {
     label: 'Mailto',
-    url: 'mailto: santaclous112@gmail.com',
+    url: 'mailto: josephcollins1210@gmail.com',
     icon: 'mailto',
   },
   {
