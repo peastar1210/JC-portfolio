@@ -179,7 +179,7 @@ export const Contact = () => {
       <div className={styles.contactInfo}>
         <div className={styles.contactItem}>
           <Icon className={styles.icon} icon="mailto" />
-          <div>santaclous112@gmail.com</div>
+          <div>josephcollins1210@gmail.com</div>
         </div>
         <div className={styles.contactItem}>
           <Icon className={styles.icon} icon="telegram" />
